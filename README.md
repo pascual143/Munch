@@ -10,7 +10,7 @@ One of those days you don´t want to cook, or just try something new. You can lo
 
 ## Features
 
-- Log in and Log out
+- Log in and Log out, Auth
 - Different cathegories of dishes
 - Able to make a 5 Stars review
 - Download and upload recipes
